@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Nealyang/React-Express-Blog-Demo#readme",
   "dependencies": {
-    "antd": "^2.13.1",
+    "antd": "^4.0.0",
     "axios": "^0.16.2",
     "bluebird": "^3.5.0",
     "body-parser": "^1.18.0",
@@ -50,7 +50,7 @@
     "redux": "^3.7.2",
     "redux-saga": "^0.15.6",
     "remark": "^8.0.0",
-    "remark-react": "^4.0.1",
+    "remark-react": "^7.0.0",
     "serialize-javascript": "^1.4.0",
     "serve-favicon": "^2.4.4"
   },
